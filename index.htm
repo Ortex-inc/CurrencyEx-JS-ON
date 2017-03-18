@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Currency</title>
+</head>
+<body id='body'>
+  <div class="cChosed" id="cChosed">
+
+<select onchange="Load()" id=select></select>
+</div>
+
+
+
+
+
+
+<div class="cList" id="cList">
+
+
+
+</div>
+
+
+
+ <div class='cCard'>
+      <img class="cFlag" id="mainCurr"  src=".png">
+      <label class="symbole">1$</label>
+      <p class="description"  id="mainp" >******</p>
+    </div>
+  <button class="float"  id="float" onClick="menu()"></button>
+
+
+
+
+
+
+  <div class="costumize" id="costumize">
+<ul id="list">
+ <li onClick="list()">CHANGE</li><hr>
+<li onClick="share()">SHARE</li><hr>
+<li onClick="about()">ABOUT</li></ul>
+  </div>
+
+<div  id="share" class="share">
+<ul>
+ <li>Facebook</li><hr>
+<li>Google+</li><hr>
+<li>Twitter</li></ul>
+  </div>
+
+  <div  id="ok" class="ok" onClick="ok()">
+  <ul>
+   <li>OK</li></ul>
+
+    </div>
+
+
+ <script src="js/isoCode.js"></script>
+ <script src="js/scripts.js"></script>
+
+</body>
+
+</html>

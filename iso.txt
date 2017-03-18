@@ -1,0 +1,194 @@
+N/A
+USDAED          
+USDAFN
+N/A
+USDALL                          
+USDAMD
+USDANG
+USDARS
+USDAUD
+N/A
+USDAZN
+USDBAM
+USDBBD
+USDBDT
+N/A   
+N/A                      
+USDBGN                         
+USDBHD   
+USDBIF
+N/A
+USDBND
+USDBOB
+USDBRL
+USDBSD
+USDBTN
+USDBWP
+USDBYN
+USDBZD
+USDCAD
+USDCDF
+N/A
+USDCHF
+CI Ivory Coast                       
+USDCLF                         
+CM Cameroon, United Republic of   
+USDCNY
+USDCOP
+USDCRC
+USDCUC
+USDCVE
+CY Cyprus                            
+USDCZK
+DE Germany                           
+USDDJF
+USDDKK
+USDDOP
+DO Dominican Republic         
+USDDZD
+EC Ecuador                    
+USDEEK
+USDEGP
+EH Western Sahara           
+USDERN
+ES Spain                        
+USDETB
+FI Finland                    
+USDFJD
+FM Micronesia          
+FR France                            
+GA Gabon                             
+USDGBP
+GD Grenada                           
+USDGEL
+USDGEL
+USDGHS
+USDGMD
+USDGNF                      
+GQ Equatorial Guinea          
+GR Greece                            
+USDGTQ
+GW Guinea-Bissau                  
+USDGYD
+USDHNL
+USDHRK
+USDHTG
+USDHUF
+USDIDR
+IE Ireland                           
+USDINR
+USDIQD
+USDIRR
+IS Iceland                        
+IT Italy                             
+USDJMD
+USDJOD
+USDJPY
+USDKES
+USDKGS
+USDKHR
+KI Kiribati                          
+USDKMF
+KN Saint Kitts and Nevis             
+USDKPW
+USDKRW
+USDKWD
+USDKZT
+USDLAK
+USDLBP
+LC Saint Lucia                       
+LI Liechtenstein                
+USDLKR
+USDLRD
+USDLSL
+USDLTL
+LU Luxembourg                   
+USDLVL
+USDLYD
+USDMAD
+MC Monaco              
+USDMDL
+ME Montenegro          
+USDMGA
+MH Marshall Islands                  
+USDMKD
+ML Mali                              
+USDMMK
+USDMNT
+USDMRO
+MT Malta                             
+USDMUR
+USDMVR
+USDMWK
+USDMXN
+USDMYR
+USDMZN
+USDNAD           
+NE Niger                             
+USDNGN
+USDNIO
+NL Netherlands         
+USDNOK
+USDNPR
+NR Nauru                                            
+USDNZD
+USDOMR
+USDPAB
+USDPEN
+USDPGK
+USDPHP
+USDPKR
+USDPLN
+PS Palestine
+PT Portugal               
+PW Palau                  
+USDPYG
+USDQAR
+USDRON
+USDRUB
+USDRWF
+USDSAR
+USDSBD
+USDSCR
+USDSDG
+USDSEK
+USDSGD
+SI Slovenia                     
+SK Slovakia                     
+USDSLL
+SM San Marino                        
+SN Senegal                           
+USDSOS
+USDRSD
+USDSRD
+ST Sao Tome and Principe             
+SV El Salvador                
+USDSYP
+USDSZL                         
+TD Chad                           
+TG Togo                              
+USDTHB
+USDTJS
+USDTMT
+USDTND
+USDTOP
+USDTRY
+USDTTD
+TV Tuvalu                         
+USDTWD
+USDTZS
+USDUAH
+USDUGX
+USDUSD
+USDUYU
+USDUZS
+VA Holy See (Vatican City State)  
+VC Saint Vincent and the Grenadi     
+USDVEF
+USDVND
+USDVUV
+USDWST
+USDYER
+USDZAR
+USDZMK
+USDZWL

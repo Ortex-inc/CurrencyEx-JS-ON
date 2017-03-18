@@ -1,0 +1,198 @@
+html,body {
+  margin:0;
+  padding:0;
+  background-color:silver;
+  width:100%;
+  height:100%;
+font-family:sans-serif;
+}
+.cChosed{
+  width:100%;
+  height:24%;
+  padding:2px;
+  margin-bottom:20px;
+border-bottom:10px solid #225599;
+  background-color:#F1F1F1;
+
+}
+.cList{
+  width:100%;
+  height:80%;
+  padding:10px
+}
+.float{
+  width:80px;
+  height:80px;
+  position:absolute;
+  top:85%;
+  left:80%;
+  border-radius:50px;
+   text-decoration: none;
+  border:2px solid #166599;
+  background:#225599;
+background-image:url('../icons/more.png');
+background-size:30px 30px;
+  background-repeat:no-repeat;
+  background-position:center;
+box-shadow:5px 5px 5px #656565;
+  cursor:pointer;
+}
+
+/*card modulation*/
+
+.cCard{
+   position:absolute;
+  width:60%;
+  height:24%;
+  top:0;
+  left:0px;
+}
+.cChosed #select{
+     position:absolute;
+  width:30%;
+  height:24%;
+  top:0;
+  right:0px;
+}
+.cCard .cFlag{
+     position:relative;
+
+  width:50%;
+  height:70%;
+  background-color:red;
+}
+.cCard label{
+       position:absolute;
+
+  top:5%;
+  left:55%;
+}
+.cCard p{
+         position:absolute;
+color:#0B86A2;
+  top:60%;
+  left:5%;
+}
+
+
+
+
+
+/* settings*/
+
+
+.costumize{
+display:none;
+position:fixed;
+  overflow-y: auto;
+height:35%;
+  width:100%;
+  bottom:0%;
+  background-color:white;
+}
+
+.costumize ul{
+
+
+ list-style-type: none;
+}
+.costumize li{
+  font-family:sans-serif;
+  font-size:20px;
+  font-weight:bold;
+    padding:10px;
+text-align:center;
+cursor:pointer;
+}
+
+
+.share{
+position:fixed;
+display:none;
+
+  overflow-y: auto;
+height:35%;
+  width:100%;
+  bottom:0%;
+}
+
+.share  ul{
+
+  background-color:white;
+ list-style-type: none;
+}
+.share li{
+  font-family:sans-serif;
+  font-size:20px;
+  font-weight:bold;
+    padding:10px;
+text-align:center;
+cursor:pointer;
+}
+
+/*BETA BOZZ*/
+.cList{
+  margin:auto;
+  position:relative;
+width:98%;
+  height:80%;
+
+overflow-y:auto;
+
+
+}
+
+
+.other{
+  margin-top:10px;
+  margin-left:auto;
+  margin-right:auto;
+  position:relative;
+  width:100%;
+  height:20%;
+  border:4px solid silver;
+  background-color:#F1F1F1;
+box-shadow:0px 2px 2px #656565;
+cursor:pointer;
+}
+
+/* cuurency of ther list*/
+
+
+.other .cFlag{
+     position:absolute;
+
+  width:50%;
+  height:100%;
+  background-color:red;
+}
+.other .symbole{
+       position:absolute;
+
+  top:5%;
+  left:55%;
+}
+
+.other .name{
+       position:absolute;
+font-family:sans-serif;
+font-size:16px;
+  top:35%;
+  left:55%;
+}
+
+/* settings*/
+.ok {
+position:fixed;
+display:none;
+  width:100%;
+  bottom:0%;
+  font-family:sans-serif;
+  font-size:20px;
+  font-weight:bold;
+text-align:center;
+cursor:pointer;
+  background-color:white;
+
+}
+.ok li{ list-style-type:none;}
